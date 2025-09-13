@@ -11,3 +11,6 @@ python-dotenv
 faiss-cpu
 tiktoken
 tabulate
+tenacity
+
+
